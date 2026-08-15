@@ -2,7 +2,7 @@
 
 **Computer Science Student at COMSATS Sahiwal | Python & Data Enthusiast**
 
-I'm a passionate Computer Science student from Okara, Pakistan, exploring the world of software development, machine learning, and data analysis. I love building things and diving deep into problem-solving.
+I'm a passionate Computer Science student from Okara, Pakistan, exploring the world of software development, machine learning, and data analysis. I love building things and diving deep into problem-solving. 
 
 ---
 
